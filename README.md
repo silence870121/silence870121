@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **silence870121/silence870121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Learning
+- HTML5
+- CSS3, SCSS, SASS
+- JavaScript ES6+
+- Vue, Vuex, Vue-Router
+- Vite, Vue Cli
+
+## Project
+- [Atomission (Building)]
+- [Todo Clock]
+- [RESTful]
